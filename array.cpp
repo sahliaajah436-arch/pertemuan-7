@@ -17,3 +17,4 @@ int main()
     cout << "Isi data kedua setelah diubah : " << dataku[1] << endl;
    
    
+}
