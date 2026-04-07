@@ -13,3 +13,10 @@ struct Orang
     detailAlamat alamat;
     int umur;
 };
+
+int main()
+{
+    //Deklarasi variable struct
+    Orang mhs;
+
+}
